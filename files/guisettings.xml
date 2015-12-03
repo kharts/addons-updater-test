@@ -118,7 +118,7 @@
         <use24hourclock default="true">regional</use24hourclock>
     </locale>
     <lookandfeel>
-        <enablerssfeeds>false</enablerssfeeds>
+        <enablerssfeeds>true</enablerssfeeds>
         <font default="true">Default</font>
         <rssedit default="true"></rssedit>
         <skin default="true">skin.confluence</skin>
