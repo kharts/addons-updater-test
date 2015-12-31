@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="script.renegadestv" version="1.0.5" data_version="0.1.5"></addon>
     <addon id="plugin.video.1channel" delete="true"></addon>
+    <addon id="plugin.video.netflixbmc" delete="true"></addon>
 </addons>
